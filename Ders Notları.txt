@@ -1,0 +1,89 @@
+Ders Notları
+
+ilk kısım ders içeriği
+
+github mac vers komut fark 
+
+hesap makinesindekiler:
+topla çıkar vs fonksiyonları 
+input alma output basma -> if else 
+
+
+algoritmalar ikide bir ortaya koymak 
+manav ve kahve makinesi örnekleri
+
+işe alımdan örnekleri 
+kötü algoritma örnekleri : time delayli olan örneğin eksileri
+
+
+
+
+
+path nedir 
+
+git -github nedir düzenleme
+
+
+konsol nedir? CMD nedir?
+
+binary notlar, micro'dan notlar
+maliyet nedir, bellek yönetimi önemi 
+
+variable kısmında c++ arithmetic toplama kısmından örnek 
+
+modulus 
+
+!= esprileri 
+
+string \0 temel 
+
+${} concentenation işi
+
+string getline 
+
+array üzerinden sınav not hesaplama ödevi ->1. gün ödevi 
+(ayrıca ek olarak ) sınıf ortalaması için array üzerinden loop parse ederek toplama 
+sonrada da string array2leri olabilir 
+
+
+real life examples in high software, akıllı ev sistemleri vs gibi karar mekanizmalarının kullanımı 
+
+macro defining -> constanlara eklenir
+
+fonksiyonlar? 2. gün
+
+
+vector'ler hafıza kısmına eklenebilri 
+
+
+
+hazır kodlar : amiral battı, adam asmaca
+
+bunlar repoda hazır olarak durabilir 
+repo oluşturulacak 
+
+rand oluşturmaca ve 8 ball gösterimi
+
+teorik ve bilindik algoritmler mantığı açıklaması 
+
+
+gün sonu kahoot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
